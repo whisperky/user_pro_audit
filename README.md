@@ -22,7 +22,7 @@ A robust user profile management system with complete audit logging capabilities
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/whisperky/user_pro_audit.git
 cd user-profile-audit
 ```
 
